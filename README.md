@@ -5,7 +5,7 @@
 
 ### Projeto, coleta de dados em python; 
 
-    Usaremos um site de vagas de emprego como exemplo para realiza uma varredura,
+    Usaremos um site de vagas de emprego como exemplo para realizar uma varredura,
     Coletando informações, exemplo:
     Nome da vaga, cidade, data, link da vaga, email do(a) recrutador(a) 💥
 
